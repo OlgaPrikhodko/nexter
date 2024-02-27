@@ -3,6 +3,12 @@
 Nexter is a landing page of a fictional company which sells luxury home across the world. The goal of this project is to build a responsive page using as many grids as possible.
 Developed with [Jonas Schmedtmann's Advanced CSS and Sass course](https://www.udemy.com/course/advanced-css-and-sass/)
 
+### View Project Live
+
+[https://olgaprikhodko.github.io/nexter/](https://olgaprikhodko.github.io/nexter/)
+
+### Gallery With Grid CSS
+
 ![Nexter - Gallery With Grid CSS](img/readme/gallery.png)
 
 ### Getting started
